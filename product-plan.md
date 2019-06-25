@@ -1,28 +1,33 @@
-# Capstone Product Plan
-The second deliverable for the capstone is your product plan.
+# Capstone Product Plan - Laneia
+The second deliverable for the capstone project.
 
 ## Product Plan Components
-1. __Personal Learning Goals__: A list outlining the major things that you want to focus on learning in this project.
+1. __Personal Learning Goals__: 
+-A new programming language (Java)
+-Full-stack development of an Android application and how to use Android SDK.
+-How to build my own database using new software.
+-Integrating share to Twitter and Instagram functionality.
+-Make the app look extremely fly.
 
-1. __Problem Statement__: A clear, concise statement describing the problem your project will solve. Re-use the problem statement from the concept write-up or update if you've made adjustments.
+1. __Problem Statement__: Life pro tips are best if they come from a diversity of backgrounds and experiences.  This app will enable users to share their wisdom with the world around them, and users can vote if they find a tip helpful or not.
 
-1. __Market Research__: Outline the key insights from your research, including:
-    - your application’s competition - what alternatives are already out there (competing apps and/or non-app solutions)
-    - research from users on why these alternatives do not effectively address the problem.
-    - differentiation: what makes your idea/product different
+1. __Market Research__: Outline the key insights from your research:
+    - Competition:  There are numerous life tip applications, written by an author/team and then pop up as notifications for the user.
+    - Issues in Competition:  The author of the tips unilaterally decides what is good advice with no user input.
+    - Differentiation: This will be a simple way for people to share their tips with one another, instead of receiving a tip written or gathered by the developer.  Users can both send and receive tips and vote on how useful they are.
   
-1. __User Personas__: A summary of your main target user group(s). What are their key characteristics? How do those characteristics factor into project/app/idea?
+1. __User Personas__: My target users are people who love sharing what they know.  This will range from angsty teenagers who think they are incredibly deep to older users who may actually have some nuggets of wisdom.  Therefore the app is designed for maximum flexibility, in that users can decide what categories of tips they want to receive from, what tips to give, what tips they find helpful versus not, and all in a design that is pleasing to eyes of all ages.
 
 1. __Trello Board__:
-    - Flesh out the feature set that you created in the conceptual delivery to get started with your Trello board
+    - https://trello.com/b/Qq19i5RR/capstone
   
 1. __Technology selections__:
-    - Front-end
-    - Back-end
-    - Infrastructure - Deployment or Code
+    - Java
+    - Android SDK
+    - Google Cloud Platform for deployment
+    - Google Firebase
   
 1. __Wireframes__:
-    - Any format you may like - photos of paper, online tool and/or paper to show your instructors
-
-## Format
-Since the Product Plan is part of your final deliverable and should be included in your repository, it would be easiest to do this initial draft in a markdown format for easy transferability to GitHub.
+    - https://i.imgur.com/z82vaMR.png home page
+    - https://i.imgur.com/XHCwLHy.png menu
+    - More to come:  daily tip will have tip on a background, thumbs up/down to vote, and share to Twitter/ Instagram.
